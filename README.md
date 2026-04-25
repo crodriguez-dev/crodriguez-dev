@@ -14,7 +14,7 @@ I am currently seeking internship opportunities where I can apply my creativity,
 
 # Feel free to explore or connect with me on LinkedIn!
 
-## 🚀Featured Projects
+# 🚀Featured Projects
 
 <!--
 **crodriguez-dev/crodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

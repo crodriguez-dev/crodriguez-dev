@@ -12,11 +12,9 @@ When I am not behind my laptop, I am active in the Society of Hispanic Professio
 
 I am currently seeking internship opportunities where I can apply my creativity, logic-based problem-solving, and work ethic to make a tangible impact in the software industry.
 
-# Feel free to explore Page or connect with me on LinkedIn!
-
-
 # 🚀 Featured Projects
 
+# Feel free to explore Page or connect with me on LinkedIn!
 <!--
 **crodriguez-dev/crodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -14,7 +14,7 @@ I am currently seeking internship opportunities where I can apply my creativity,
 
 # 🚀 Featured Projects
 
-# Feel free to explore page or connect with me on [![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/christian-rodriguez749/))
+# Feel free to explore page or connect with me on [![LinkedIn](https://shields.io)](www.linkedin.com/in/christian-rodriguez749)
 <!--
 **crodriguez-dev/crodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
